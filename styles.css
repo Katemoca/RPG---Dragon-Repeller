@@ -3,7 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
-  background-color: #ffffff;
+  background-color: #0a0a23;
+}
+
+#text {
+  color: #ffffff;
+  padding: 10px;
 }
