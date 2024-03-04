@@ -5,7 +5,9 @@
 }
 
 body {
-  background-color: #0a0a23;
+  background-image: url(https://cdn.pixabay.com/animation/2023/07/13/14/22/14-22-36-485_512.gif);
+  background-position: center;
+  background-size: cover;
 }
 
 h1 {
@@ -24,7 +26,6 @@ button {
 }
 
 #text {
-  color: #ffffff;
   padding: 10px;
 }
 
