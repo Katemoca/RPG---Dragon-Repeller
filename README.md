@@ -1,9 +1,9 @@
 # RPG-DragonRepeller
 
-![Static Badge](https://img.shields.io/badge/css-brightgreen)
-![Static Badge](https://img.shields.io/badge/html-%234F6CEA)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F55C04)
-![Static Badge](https://img.shields.io/badge/FreeCodeCamp-%2313416F)
+[![CSS Badge](https://img.shields.io/badge/css-brightgreen)](https://www.w3schools.com/css/)
+[![HTML Badge](https://img.shields.io/badge/html-%234F6CEA)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F55C04)](https://javascript30.com/)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-%2313416F)](https://www.freecodecamp.org/learn)
 
 This is a simple text-based RPG game created using JavaScript and HTML. The game features a player who can move between different locations, fight monsters, buy items in a store, and win or lose the game based on their actions. This game was taken from the freeCodeCamp recent beta course of JavaScript.
 
